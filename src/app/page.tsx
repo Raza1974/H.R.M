@@ -28,8 +28,8 @@ export default function Component() {
           </div>
           <div className="prose max-w-none">
             <p className="text-lg text-gray-700">
-              Welcome to the vibrant world of Administrative Services! Our dynamic team is the backbone 
-              of the organization, ensuring everything runs smoothly behind the scenes.
+              Welcome to the Gadap Town Municipal Corporation  HRM Department  
+              
             </p>
             <h3 className="text-xl font-semibold mt-6 mb-3 text-blue-600">Our Colorful Responsibilities:</h3>
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-2">
